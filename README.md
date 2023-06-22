@@ -14,4 +14,4 @@ No new additional improvements planned yet.
 
 ## License information
 This project is under MIT License, as described on License.md file, that can also be found on this repository
-https://github.com/davidsilvabravo/PacMen-Exercise/blob/main/LICENSE
+https://github.com/davidsilvabravo/Eye-Exercise/blob/main/LICENSE
