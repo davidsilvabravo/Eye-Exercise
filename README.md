@@ -7,6 +7,7 @@ You just need to download all these files from the repo, and put them together o
 - index.html
 - ejes.js
 - styles.css
+
 Then, just open index.html on your browser and move your mouse and check that a pair of "eyes" follow mouse location.
 
 ## Roadmap of future improvements
