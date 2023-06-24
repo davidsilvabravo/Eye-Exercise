@@ -1,6 +1,6 @@
 # Eye-Exercise
 ## Description
-A pair of green eyes following your movements on the browser's window. Just for fun, whenever you want to play with it.
+A pair of green eyes following your movements on the browser's window. Just for fun, whenever you want to play with it !
 
 ## How to run
 You just need to download all these files from the repo, and put them together on a single folder:
