@@ -18,8 +18,8 @@ $ yarn
 
 ### Run the project:
 $ yarn start
-The server will initialize in the <http://localhost:3000>
 
+### The server will initialize in the <http://localhost:3000>
 ### Then, just open index.html on your browser and move your mouse and check that a pair of "eyes" follow mouse location.
 
 ## Roadmap of future improvements
