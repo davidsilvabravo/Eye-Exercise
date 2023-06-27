@@ -5,6 +5,7 @@ A pair of green eyes following your movements on the browser's window. Just for 
 ## How to run
 
 ### You need to clone the repo, so all these files will be downloaded on a single folder "Eye-Exercise":
+$ git clone https://github.com/davidsilvabravo/Eye-Exercise
 - index.html
 - ejes.js
 - styles.css
